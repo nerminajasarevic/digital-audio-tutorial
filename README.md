@@ -1,6 +1,6 @@
-# H1 Digital Audio Basics Tutorial
+# Digital Audio Basics Tutorial
 
-## H2 Nermina Jasarevic
+## Nermina Jasarevic
 
 The purpose of this tutorial is to explain different aspects of digital audio and their uses in practice.
 
